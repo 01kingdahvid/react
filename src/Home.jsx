@@ -9,7 +9,7 @@ const Home = () => {
     return (
       <>
       <main>
-       <h1>WELCOME TO MY PLAYGROUND</h1>
+       <h1 className='bg-light'>WELCOME TO MY PLAYGROUND</h1>
       </main>
       </>
       
